@@ -24,7 +24,7 @@ This project is a Next.js application using the App Router, TypeScript, Tailwind
    npm run dev
    ```
 
-3. Open [http://localhost:3000](http://localhost:3000) in your browser.
+3. Open [https//www.toptiertravels.vip](https://toptiertravel.vip/) in your browser.
 
 ## Customization
 
