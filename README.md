@@ -3,7 +3,11 @@
 This project is a Next.js application using the App Router, TypeScript, Tailwind CSS, ESLint, and will include multi-language (i18n) support. It follows the latest Next.js best practices and recommended structure.
 
 ## Features
-
+- search form with hotel name , booking date range , travelers dropdown with room , adult , infant and childs
+- Third party api integration all over the world data for  hotels 
+- listing page with grig and list view , price range filters , BY rating , by name 
+- load more hotel on scroll
+- Booking with stripe payment 
 - Next.js (App Router)
 - TypeScript
 - Tailwind CSS
